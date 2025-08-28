@@ -24,7 +24,7 @@
 	<project path="device/samsung/core33g" name="pstglia/android_device_samsung_core33g" remote="github" revision="T113NU_COM_A_MAO_NO_BOLSO"/>
 	<project path="hardware/sprd" name="pstglia/android_hardware_sprd" remote="github" revision="cm-14.1"/>
 	<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1"/>
-	<project path="kernel/samsung/core33g" name="pstglia/linux" remote="github" revision="T113NU_COM_A_MAO_NO_BOLSO"/>
+	<project path="kernel/samsung/core33g" name="IMYdev/android_kernel_samsung_goyavewifi" remote="github" revision="T113NU_COM_A_MAO_NO_BOLSO"/>
 	<project path="vendor/samsung/core33g" name="pstglia/android_vendor_samsung_core33g" remote="github" revision="T113NU_COM_A_MAO_NO_BOLSO"/>
 	<project path="vendor/samsung/scx30g-common" name="pstglia/android_vendor_samsung_scx30g-common" remote="github" revision="T113NU_COM_A_MAO_NO_BOLSO"/>
 </manifest>
